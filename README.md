@@ -4,7 +4,7 @@
 
 
 ## 🗂 Acerca de mí
-¡Hola! Soy Mauro Lezcano, y me complace compartir un poco sobre mí. Soy originario/a de Formosa, Argentina, donde actualmente resido. Me considero una persona con muchas ganas de afrontar nuevos desafios y de aprender constantemente.
+¡Hola! Soy Mauro Lezcano, y me complace compartir un poco sobre mí. Soy de Formosa, Argentina, donde actualmente estoy viviendo. Me considero una persona con muchas ganas de afrontar nuevos desafios y de aprender constantemente.
 Actualmente me encuentro estudiando en el Instituto Privado Robustiano Macedo Martinez, la carrera de "Tecnico Superior en Desarrollo de Software".
 
 ## 🗺 Dónde Vivo
