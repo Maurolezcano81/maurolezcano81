@@ -16,12 +16,11 @@ Uno de mis mayores pasatiempos es programar y realizar proyectos personales. Ade
 
 ## 🚀 Lenguajes que Utilizo
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330.svg?logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white) ![Angular](https://img.shields.io/badge/Angular.js-E23237.svg?logo=angularjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330.svg?logo=javascript&logoColor=F7DF1E)
 ![Node](https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C.svg?logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD.svg?logo=jquery&logoColor=white)
-![Git](https://img.shields.io/badge/Git-black?logo=git) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white)
-![mysql](https://img.shields.io/badge/mysql-00000f.svg?logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-black?logo=git) ![mysql](https://img.shields.io/badge/mysql-00000f.svg?logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white)
 
 ¡Espero que esta breve presentación te haya dado una idea de quién soy y de mis intereses! Si quieres saber más, no dudes en contactarme. 🌐
 
